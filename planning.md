@@ -35,6 +35,7 @@ Also psychologically pleasing that done group is growing.
 * Set a graphical interface to choose parameters
 
 * Prepare the 2 minutes presentation for Monday
+* Set quarantine after X% of the population is sick
 
 # Doing
 * Houses and quarantine (Chris)
